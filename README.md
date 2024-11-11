@@ -1,6 +1,6 @@
-# omnom-landing-page
+# website
 
-omnom landing page built on css gird, flexbox and javascript
+omnom website built on css gird, flexbox and javascript
 
 [google analytics - gtag.js](https://developers.google.com/analytics "analytics docs")
 
